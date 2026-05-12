@@ -59,8 +59,11 @@ Puram SV et al. Single-Cell Transcriptomic Analysis of Primary and Metastatic Tu
 ---
 
 **Author:** Zeel Vaghela
+
 **Affiliation:** MSc Bioinformatics (Distinction), Teesside University, UK
+
 **Data source:** GSE103322 via NCBI GEO
+
 **Tools:** Python 3, Google Colab
 
 **Contact:**
