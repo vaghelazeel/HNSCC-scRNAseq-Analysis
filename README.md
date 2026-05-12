@@ -55,3 +55,14 @@ This project performs differential gene expression analysis between cancer and n
 ## Reference
 
 Puram SV et al. Single-Cell Transcriptomic Analysis of Primary and Metastatic Tumor Ecosystems in Head and Neck Cancer. Cell. 2017;171(7):1611-1624.
+
+---
+
+**Author:** Zeel Vaghela
+**Affiliation:** MSc Bioinformatics (Distinction), Teesside University, UK
+**Data source:** GSE103322 via NCBI GEO
+**Tools:** Python 3, Google Colab
+
+**Contact:**
+zjvaghela01@gmail.com
+https://www.linkedin.com/in/zeel-vaghela
